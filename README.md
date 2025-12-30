@@ -75,7 +75,7 @@ Deployed on Hardhat local network during tests.
 - Input validation on all functions
 - Proper event emission
 - Reentrancy-safe (external calls only after state updates)
-```
+
 ## Test Results
 
 ![Hardhat test output](https://raw.githubusercontent.com/lohithadamisetti123/dex-amm/main/screenshots/tests.png)
