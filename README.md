@@ -76,3 +76,8 @@ Deployed on Hardhat local network during tests.
 - Proper event emission
 - Reentrancy-safe (external calls only after state updates)
 ```
+## Test Results
+
+![Hardhat test output](https://raw.githubusercontent.com/lohithadamisetti123/dex-amm/main/screenshots/tests.png)
+
+![Coverage report](https://raw.githubusercontent.com/lohithadamisetti123/dex-amm/main/screenshots/coverage.png)
